@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(int argc, char* argv[]) {
     // 注射器型号
     float model[] = {1.0, 3.0, 5.0};
     // 注射剂量
